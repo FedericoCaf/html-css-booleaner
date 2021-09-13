@@ -47,12 +47,14 @@ a{
   font-size: 20px;
 }
 
+
+
 .immagine-monitor{
   width: 312px;
   height: 208px;
   background-image: url(../img/monitor.jpg);
   color: white;
-}
+ }
 
 .immagine-graph{
   width: 312px;
